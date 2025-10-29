@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/goldworkshop/static/css/main.ea4a897e.css",
-    "main.js": "/goldworkshop/static/js/main.a5b341a6.js",
-    "static/js/453.9b304124.chunk.js": "/goldworkshop/static/js/453.9b304124.chunk.js",
-    "index.html": "/goldworkshop/index.html",
-    "main.ea4a897e.css.map": "/goldworkshop/static/css/main.ea4a897e.css.map",
-    "main.a5b341a6.js.map": "/goldworkshop/static/js/main.a5b341a6.js.map",
-    "453.9b304124.chunk.js.map": "/goldworkshop/static/js/453.9b304124.chunk.js.map"
+    "main.css": "/GoldWorkshop/static/css/main.ea4a897e.css",
+    "main.js": "/GoldWorkshop/static/js/main.5c8081fd.js",
+    "static/js/453.9b304124.chunk.js": "/GoldWorkshop/static/js/453.9b304124.chunk.js",
+    "index.html": "/GoldWorkshop/index.html",
+    "main.ea4a897e.css.map": "/GoldWorkshop/static/css/main.ea4a897e.css.map",
+    "main.5c8081fd.js.map": "/GoldWorkshop/static/js/main.5c8081fd.js.map",
+    "453.9b304124.chunk.js.map": "/GoldWorkshop/static/js/453.9b304124.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea4a897e.css",
-    "static/js/main.a5b341a6.js"
+    "static/js/main.5c8081fd.js"
   ]
 }
